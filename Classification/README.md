@@ -9,11 +9,13 @@ The datasets of cifar10 and cifar100 will be downloaded automatically while runi
 # Training
 To train a model such as vgg16 on cifar10 with ICP:
 > chmod +x ./scripts/Train_cifar10_vgg16.sh
+
 > sh ./scripts/Train_cifar10_vgg16.sh
 
 # Testing
 To test a trained model such as vgg16 on cifar10:
 > chmod +x ./scripts/Test_cifar10_vgg16.sh
+
 > sh ./scripts/Test_cifar10_vgg16.sh
 
 # Results and Logs
