@@ -18,7 +18,7 @@ The preparing of data is the same as [FactorVAE](https://github.com/1Konny/Facto
 
 > sh scripts/prepare_data.sh CelebA
 
-3. For 3D Faces Dataset, We cannot publicly distribute this due to the ([license](https://faces.dmi.unibas.ch/bfm/main.php?nav=1-2&id=downloads)).
+3. For 3D Faces Dataset, We cannot publicly distribute this due to the [license](https://faces.dmi.unibas.ch/bfm/main.php?nav=1-2&id=downloads).
 
 # Training
 To train a model on dSprites with ICP:
