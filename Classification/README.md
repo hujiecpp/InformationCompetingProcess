@@ -26,7 +26,7 @@ The error rates of ICP on cifar-10:
 |Baseline  |6.67      |4.92       |7.63      |5.83        |
 |ICP-ALL   |6.97      |4.76       |6.47      |6.13        |
 |ICP-COM   |6.59      |4.67       |7.33      |5.63        |
-|ICP       |6.10      |4.26       |6.01      |4.99        |
+|**ICP**   |**6.10**  |**4.26**   |**6.01**  |**4.99**    |
 
 The error rates of ICP on cifar-100:
 
@@ -35,7 +35,7 @@ The error rates of ICP on cifar-100:
 |Baseline  |26.41     |20.68      |31.91     |27.55       |
 |ICP-ALL   |26.73     |20.90      |28.35     |27.51       |
 |ICP-COM   |26.37     |20.81      |32.76     |26.85       |
-|ICP       |24.54     |18.55      |28.13     |24.52       |
+|**ICP**   |**24.54** |**18.55**  |**28.13** |**24.52**   |
 
 Baseline denotes the performance of original model, ICP-ALL denotes the result of ICP without all the information constraints, ICP-COM denotes the results of ICP without the competing constraints.
 
