@@ -1,8 +1,6 @@
 This is the project page of our paper:
 
-"Information Competing Process for Learning Diversified Representations." Hu, J., Ji, R., Zhang, S., Sun, X., Ye, Q., Lin, C. W., & Tian, Q. In *NeurIPS 2019.* [paper]
-
-**Our paper is revising now, and the camera-ready version will be uploaded soon.**
+"Information Competing Process for Learning Diversified Representations." Hu, J., Ji, R., Zhang, S., Sun, X., Ye, Q., Lin, C. W., & Tian, Q. In *NeurIPS 2019.* \[[paper](https://arxiv.org/abs/1906.01288)\]
 
 If you have any problem, please feel free to contact us.
 
