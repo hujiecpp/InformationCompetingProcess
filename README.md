@@ -9,7 +9,7 @@ The codes, usages, models and results for classification task can be found in: [
 
 We implement ICP to train VGG16, GoogLeNet, ResNet20 and DenseNet40 on Cifar10 and Cifar100 datasets.
 
-Our codes for the classification task are based on [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) and the models from [KSE](https://github.com/yuchaoli/KSE/tree/master/model).
+Our codes for the classification task are based on [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) and the networks from [KSE](https://github.com/yuchaoli/KSE/tree/master/model).
 
 # 2. Self-Supervised Setting: Disentanglement Task
 The codes, usages, models and results for disentanglement task can be found in: [./Disentanglement/](https://github.com/hujiecpp/InformationCompetingProcess/tree/master/Disentanglement)
