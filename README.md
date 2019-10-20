@@ -1,6 +1,6 @@
 This is the project page of our paper:
 
-"Information Competing Process for Learning Diversified Representations." Hu, J., Ji, R., Zhang, S., Sun, X., Ye, Q., Lin, C. W., & Tian, Q. In *NeurIPS 2019.* \[[paper](https://arxiv.org/abs/1906.01288)\] \[[poster](https://github.com/hujiecpp/InformationCompetingProcess/tree/master/Paper/poster.pdf)\] \[[中文简介](https://github.com/hujiecpp/InformationCompetingProcess/tree/master/Paper/信息竞争式的多样化特征学习.pdf)\]
+"Information Competing Process for Learning Diversified Representations." Hu, J., Ji, R., Zhang, S., Sun, X., Ye, Q., Lin, C. W., & Tian, Q. In *NeurIPS 2019.* \[[Paper](https://arxiv.org/abs/1906.01288)\] \[[Poster](https://github.com/hujiecpp/InformationCompetingProcess/tree/master/Paper/poster.pdf)\] \[[中文简介](https://github.com/hujiecpp/InformationCompetingProcess/tree/master/Paper/信息竞争式的多样化特征学习.pdf)\]
 
 If you have any problem, please feel free to contact us. (hujie.cpp@gmail.com)
 
