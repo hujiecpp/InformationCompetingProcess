@@ -1,6 +1,6 @@
 This is the project page of our paper:
 
-"Information Competing Process for Learning Diversified Representations." Hu, J., Ji, R., Zhang, S., Sun, X., Ye, Q., Lin, C. W., & Tian, Q. In *NeurIPS 2019.* \[[paper](https://arxiv.org/abs/1906.01288)\]
+"Information Competing Process for Learning Diversified Representations." Hu, J., Ji, R., Zhang, S., Sun, X., Ye, Q., Lin, C. W., & Tian, Q. In *NeurIPS 2019.* \[[paper]((https://github.com/hujiecpp/InformationCompetingProcess/tree/master/Paper/Information_Competing_Process_For_Learning_Diversified_Representations.pdf))\] [[poster](https://github.com/hujiecpp/InformationCompetingProcess/tree/master/Paper/poster.pdf)] [[中文简介](https://github.com/hujiecpp/InformationCompetingProcess/tree/master/Paper/信息竞争式的多样化特征学习.pdf)]
 
 If you have any problem, please feel free to contact us. (hujie.cpp@gmail.com)
 
@@ -9,7 +9,7 @@ The codes, usages, models and results for classification task can be found in: [
 
 We implement ICP to train VGG16, GoogLeNet, ResNet20 and DenseNet40 on Cifar10 and Cifar100 datasets.
 
-Our codes for the classification task are based on [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) and the networks from [KSE](https://github.com/yuchaoli/KSE/tree/master/model).
+Our codes for the classification task are based on [pytorch-cifar](https://github.com/kuangliu/pytorch-cifar) and the models from [KSE](https://github.com/yuchaoli/KSE/tree/master/model).
 
 # 2. Self-Supervised Setting: Disentanglement Task
 The codes, usages, models and results for disentanglement task can be found in: [./Disentanglement/](https://github.com/hujiecpp/InformationCompetingProcess/tree/master/Disentanglement)
